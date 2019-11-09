@@ -1,10 +1,10 @@
 def countdown(seconds)
   while seconds > 0
   puts "#{seconds} SECOND(S)!"
-  countdown -= 1
+  seconds -= 1
 end
 end
-puts countdown
+puts seconds
 
 
 def countdown_with_sleep
