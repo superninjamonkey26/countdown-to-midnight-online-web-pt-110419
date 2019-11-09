@@ -4,7 +4,7 @@ def countdown(seconds)
   seconds -= 1
 end
 end
-puts seconds
+puts countdown
 
 
 def countdown_with_sleep
