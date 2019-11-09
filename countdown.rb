@@ -6,7 +6,7 @@ def countdown(number)
   countdown -= 1
 end
 end
-
+puts countdown
 
 
 def countdown_with_sleep
