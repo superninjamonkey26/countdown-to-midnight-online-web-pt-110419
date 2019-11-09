@@ -6,8 +6,6 @@ def countdown(number)
   puts "#{number} SECOND(S)!"
 end
 end
-puts countdown
-puts "HAPPY NEW YEAR!"
 
 
 def countdown_with_sleep
