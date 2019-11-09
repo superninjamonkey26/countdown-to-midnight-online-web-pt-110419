@@ -6,6 +6,7 @@ def countdown(number)
   puts "#{number} SECOND(S)!"
 end
 end
+puts countdown
 
 
 def countdown_with_sleep
